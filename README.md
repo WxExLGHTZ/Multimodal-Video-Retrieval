@@ -1,14 +1,6 @@
 # Multimodal-Video-Retrieval
 A multimodal retrieval system that makes video collections searchable through natural language queries — via late fusion of OpenCLIP visual embeddings, Whisper audio transcriptions, and structured metadata.
 
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-EE4C2C?logo=pytorch&logoColor=white)
-![OpenCLIP](https://img.shields.io/badge/OpenCLIP-3.2.0-412991)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.50.0-FF4B4B?logo=streamlit&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900?logo=nvidia&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## Motivation
