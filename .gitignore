@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+workspace/*
+!workspace/collections/
+workspace/collections/*
+!workspace/collections/.gitkeep
+.idea/
+models/*
+third_party/*

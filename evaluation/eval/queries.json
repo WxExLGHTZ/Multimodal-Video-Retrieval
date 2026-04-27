@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": "q1",
+    "query_text": "Ich suche Videos, in denen gezeigt wird, wie man einfache Gerichte zubereitet und sich im Alltag praktisch ernährt."
+  },
+  {
+    "query_id": "q2",
+    "query_text": "Ich möchte Videos finden, die Tipps zu einfachen Kochtechniken und gesunder Alltagsküche geben."
+  },
+  {
+    "query_id": "q3",
+    "query_text": "Ich suche Videos, die zeigen, wie man Wohnräume gestalten kann und die praktische Einrichtungsideen vermitteln."
+  },
+  {
+    "query_id": "q4",
+    "query_text": "Ich möchte Videos finden, die sich damit beschäftigen, wie man sein Zuhause besser organisiert und einrichtet."
+  },
+  {
+    "query_id": "q5",
+    "query_text": "Ich suche Videos, die verschiedene Landschaften und Aktivitäten im Freien zeigen."
+  },
+  {
+    "query_id": "q6",
+    "query_text": "Ich möchte Videos finden, die verschiedene Tiere in ihrer natürlichen Umgebung darstellen."
+  },
+  {
+    "query_id": "q7",
+    "query_text": "Ich suche Videos, die die Grundlagen vom Gaming erklären und zeigen, wie typische Spielumgebungen funktionieren."
+  },
+  {
+    "query_id": "q8",
+    "query_text": "Ich möchte Videos finden, die Spielmechaniken, Strategien und verschiedene Spielarten erklären."
+  },
+  {
+    "query_id": "q9",
+    "query_text": "Ich suche Videos, die Grundlagen der Hautpflege und typische Pflegeroutinen erklären."
+  },
+  {
+    "query_id": "q10",
+    "query_text": "Ich möchte Videos finden, die verschiedene Make-up-Techniken und den Umgang mit Pflegeprodukten verständlich erklären."
+  }
+]

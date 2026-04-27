@@ -1,0 +1,81 @@
+{
+  "q1": {
+    "Küche und Ernährung": 1,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q2": {
+    "Küche und Ernährung": 1,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q3": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 1,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q4": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 1,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q5": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 1,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q6": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 1,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q7": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 1,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q8": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 1,
+    "Beauty, Make-up und Skincare": 0
+  },
+
+  "q9": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 1
+  },
+
+  "q10": {
+    "Küche und Ernährung": 0,
+    "Wohnideen und Inneneinrichtung": 0,
+    "Natur, Reisen und Outdoor-Erlebnisse": 0,
+    "Gaming": 0,
+    "Beauty, Make-up und Skincare": 1
+  }
+}

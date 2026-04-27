@@ -1,0 +1,31 @@
+# === CLIP ===
+open-clip-torch==3.2.0
+
+# === Whisper ===
+openai-whisper==20250625
+
+# === Transformers (OPUS Uebersetzung) ===
+transformers==4.56.2
+safetensors
+sentencepiece
+sacremoses
+
+# === Computer Vision ===
+opencv-python==4.12.0.88
+Pillow 
+
+# === Audio ===
+soundfile==0.13.1
+
+# === Data ===
+numpy==2.0.2
+pandas==2.3.3
+
+# === NLP ===
+langdetect==1.0.9
+
+# === UI ===
+streamlit==1.50.0
+
+
+
