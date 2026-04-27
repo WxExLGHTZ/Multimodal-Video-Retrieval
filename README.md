@@ -5,7 +5,7 @@ A multimodal retrieval system that makes video collections searchable through na
 
 ## Motivation
 
-Videos carry meaning through multiple channels simultaneously: what is shown, what is said, and what is described in accompanying metadata. Keyword-based search fails here because it depends on exact term matches — semantic similarity remains invisible. EchoSearch projects all three modalities into the shared embedding space of a CLIP ViT-H-14 model, fuses them via a configurable weighted sum into a single video embedding, and aggregates those per collection into one representative vector. A text query is passed through the same encoder; collections are ranked by cosine similarity — without any separate training or fine-tuning.
+Videos carry meaning through multiple channels simultaneously: what is shown, what is said, and what is described in accompanying metadata. Keyword-based search fails here because it depends on exact term matches — semantic similarity remains invisible. The System projects all three modalities into the shared embedding space of a CLIP ViT-H-14 model, fuses them via a configurable weighted sum into a single video embedding, and aggregates those per collection into one representative vector. A text query is passed through the same encoder; collections are ranked by cosine similarity — without any separate training or fine-tuning.
 
 ---
 
