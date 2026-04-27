@@ -168,41 +168,6 @@ python check_embedding_artifact.py
 
 ---
 
-## Project Structure
-
-```
-├── app/
-│   └── ui_app.py                # Streamlit frontend, application entry point
-├── configs/
-│   └── config.py                # Model, fusion, and path configuration
-├── core/
-│   ├── jobs/
-│   │   ├── image_encoder.py     # CLIP image encoder for video frames
-│   │   ├── text_encoder.py      # CLIP text encoder for transcript & metadata
-│   │   ├── transcriber.py       # ffmpeg extraction + Whisper transcription
-│   │   ├── fusion.py            # Weighted modality fusion
-│   │   └── coll_emb.py          # Aggregation into collection vector
-│   ├── services/
-│   │   ├── generate_service.py  # Pipeline orchestration
-│   │   └── search_service.py    # Query encoding and ranking
-│   └── utils/
-│       └── model_loader.py      # LRU-cached model bootstrap
-├── evaluation/
-│   ├── full_evaluation.py       # Evaluation across all representations
-│   ├── retrieval_metrics.py     # P@k, MRR, nDCG@k implementations
-│   └── eval/
-│       ├── queries.json         # Test queries
-│       └── relevance.json       # Ground-truth relevance labels
-├── models/                      # Local model weights (not tracked)
-├── third_party/                 # ffmpeg binaries (not tracked)
-├── workspace/
-│   └── collections/             # Collection directories with embeddings
-├── check_embedding_artifact.py  # Validates individual .npy embedding files
-└── requirements.txt
-```
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE).
